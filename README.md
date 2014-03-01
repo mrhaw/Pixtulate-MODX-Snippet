@@ -16,8 +16,9 @@ android/ipad tablet 	>> 	600
 laptop 					>> 	800
 //edit this or set a override value for width.
 
-Plenty of awesome JavaScript to further use. Pixtulate is about sharing 
-Responsive Javascript for use to use! :)
+Pixtulate is also planning to share Responsive Javascript that makes
+this the most bulletproof solution for image handling ever.
+Keep an eye on their website!
 
 > Pixtulate
 http://pixtulate.com/
