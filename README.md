@@ -21,13 +21,16 @@ this the most bulletproof solution for image handling ever.
 Keep an eye on their website!
 
 > Pixtulate
-http://pixtulate.com/
+http://pixtulate.com/ | 
 https://twitter.com/pixtulate
 
 > MODX
-http://modx.com/
+http://modx.com/ | 
 https://twitter.com/modx
 
-> me
-http://mrhaw.com/
+> HAW Productions 
+http://mrhaw.com/ | 
 https://twitter.com/hawproductions
+
+Discuss this in MODX Forums: 
+http://forums.modx.com/thread/89090/protip-kcfinder-thumbnails-vs-phpthumb-relic?page=2#dis-post-491510
