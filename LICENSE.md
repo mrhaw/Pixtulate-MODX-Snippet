@@ -1,1 +1,1 @@
-No licence. Free to use, modify and improve.
+No licence. Steal it legally.
