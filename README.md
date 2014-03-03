@@ -16,9 +16,9 @@ android/ipad tablet 	>> 	600
 laptop 					>> 	800
 //edit this or set a override value for width.
 
-Responsive frameworks like Bootstrap uses javascript (class="img-responsive")
+Responsive frameworks like Bootstrap uses javascript or CSS (class="img-responsive")
 but Pixtulate is also planning to share their Responsive Javascript! This makes
-this the most bulletproof solution for image handling ever.
+this the most bulletproof solution for image handling ever. 1. Serve small picture 2. Make it responsive
 Keep an eye on their website!
 
 > Pixtulate
